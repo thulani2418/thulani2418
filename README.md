@@ -68,7 +68,7 @@ Always eager to learn and grow, experimenting with new tools and frameworks!
 <div align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/thulani-aponso-a29a14251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"  style="margin-right: 15px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"  style="margin-right: 25px;" />
   </a>
   
   <!-- Instagram -->
@@ -78,7 +78,7 @@ Always eager to learn and grow, experimenting with new tools and frameworks!
   
   <!-- Gmail -->
   <a href="mailto:thulaniaponso@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" style="margin-right: 15px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" />
   </a>
 </div>
 
