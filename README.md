@@ -28,8 +28,14 @@ Always eager to learn and grow, experimenting with new tools and frameworks!
 ---
 
 ## 📊 Stats
+<div align="center">
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thulani2418&theme=dark&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thulani2418&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
 
 ---
 
