@@ -63,7 +63,7 @@ Always eager to learn and grow, experimenting with new tools and frameworks!
 ---
 
 
-## 📫 Contact Me
+## 📫 Conect with Me
 
 <div align="center">
   <!-- LinkedIn -->
