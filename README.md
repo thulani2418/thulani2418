@@ -76,7 +76,7 @@ Always eager to learn and grow, experimenting with new tools and frameworks!
   </a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/_thulaniii/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram" />
   </a>
   <!-- Gmail -->
   <a href="mailto:thulaniaponso@gmail.com" target="_blank">
