@@ -1,14 +1,17 @@
 # 👋 Hi, I'm Thulani Aponso!
 
+
 CS Undergraduate | Building the Future, One Line at a Time XD
 
 Always eager to learn and grow, experimenting with new tools and frameworks!
+
 
 ---
 
 ## 🌱 Currently Learning
 - **React.js** for dynamic web applications
 - **Flutter** for cross-platform mobile development
+
 
 
 
@@ -38,7 +41,7 @@ Always eager to learn and grow, experimenting with new tools and frameworks!
   
 </div>
 
----
+
 
 ## 📚 Frameworks and Libraries
 
