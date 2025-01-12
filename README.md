@@ -36,7 +36,7 @@ Always eager to learn and grow, experimenting with new tools and frameworks!
 ---
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thulani-aponso-a29a14251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thulani-aponso-a29a14251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_thulaniii/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thulaniaponso@gmail.com)
 
