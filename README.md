@@ -65,20 +65,20 @@ Always eager to learn and grow, experimenting with new tools and frameworks!
 
 ## 📫 Conect with Me
 
-<div align="left">
+<div align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/thulani-aponso-a29a14251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"  style="margin-right: 15px;" />
+  </a>
   
   <!-- Instagram -->
   <a href="https://www.instagram.com/_thulaniii/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram" style="margin-right: 15px;" />
   </a>&nbsp;&nbsp;&nbsp;
   
   <!-- Gmail -->
   <a href="mailto:thulaniaponso@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" style="margin-right: 15px;" />
   </a>
 </div>
 
